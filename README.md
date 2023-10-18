@@ -1,5 +1,5 @@
 # 💫 Tarık Temel:
-🔭 I’m currently working on 'wp-routines<br>🌱 I’m currently learning 'go and rust'
+🔭 I’m currently working on 'wp-routines'<br>🌱 I’m currently learning 'go'
 
 
 # 💻 Tech Stack:
